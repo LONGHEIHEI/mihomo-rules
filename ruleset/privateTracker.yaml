@@ -5,6 +5,7 @@ payload:
   # =========================
   - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,cspt.top
+  - DOMAIN-SUFFIX,tracker.cspt.date
   - DOMAIN-SUFFIX,cspt.cc
   - DOMAIN-SUFFIX,et8.org
   - DOMAIN-SUFFIX,hddolby.com
