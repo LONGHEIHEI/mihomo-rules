@@ -1,0 +1,43 @@
+# =========================
+# 补充的代理域名
+# =========================
+
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,star-space.net
+DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-KEYWORD,playwright
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,meowvps.com
+DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,mullvad.net
+DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,stun.cloudflare.com
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN,warden.5202885.xyz
+
+# =========================
+# Cloudflare 隐私 / ECH / DoH
+# =========================
+
+DOMAIN-SUFFIX,nel.cloudflare.com
+DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN,one.one.one.one
+
+# =========================
+# DNS / 隐私测试
+# =========================
+
+DOMAIN-SUFFIX,dns.test.perfect-privacy.com
+
+# =========================
+# IP / 出口检测
+# =========================
+
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip-api.com

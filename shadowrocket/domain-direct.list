@@ -1,0 +1,7 @@
+# =========================
+# 补充的直连域名
+# =========================
+
+DOMAIN-SUFFIX,rollbar.com
+DOMAIN-SUFFIX,debugbear.com
+DOMAIN-SUFFIX,oraclecloud.com
